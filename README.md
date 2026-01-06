@@ -28,11 +28,11 @@ Built with **Rust**, it is optimized for low-resource hardware like the **Raspbe
 
 2. **Create a `.env` file** in the project root:
 
-    # Source Account (Where to take posts from)
+    ### Source Account (Where to take posts from)
     SOURCE_URL=https://mastodon.social
     SOURCE_TOKEN=your_source_access_token
 
-    # Target Account (Where to publish)
+    ### Target Account (Where to publish)
     TARGET_URL=https://mastodon.social
     TARGET_TOKEN=your_target_access_token
 
